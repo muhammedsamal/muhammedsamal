@@ -8,6 +8,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-muhammedshamal0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammedshamal0@gmail.com)](mailto:muhammedshamal0@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-muhammedshamal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mhmd_shamal)](https://twitter.com/mhmd_shamal)
 
+## About me
+
+- 🔭 I’m currently working on [FromHome](https://github.com/muhammedShamal/fromhome)
+
+- 🌱 I’m currently learning **React, NodeJS**
+
+- 👯 I’m looking to collaborate on **Full Stack Web Applications**
+
+- 📫 How to reach me **muhammedshamal0@gmail.com**
+
+- 📄 Know about my experiences [https://bit.ly/muhammedshamal-resume](https://bit.ly/muhammedshamal-resume)
+
 <br>
 
 ## ⚡ Technologies
