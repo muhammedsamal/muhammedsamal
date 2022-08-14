@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **muhammedshamal0@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/muhammedshamal-resume](https://bit.ly/muhammedshamal-resume)
+- 📄 Know about my experiences [muhammedshamal-resume](https://docs.google.com/document/d/1I0XV8KpKgTQSu_Rojz4wfZLANgVxupdff2mK4u28aKQ/edit?usp=sharing)
 
 <br>
 
