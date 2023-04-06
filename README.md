@@ -4,9 +4,9 @@
 
 ## Connect with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-muhammedshamal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-shamal-065b26190/)](https://www.linkedin.com/in/muhammed-shamal/)
-[![Gmail Badge](https://img.shields.io/badge/-muhammedshamal0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammedshamal0@gmail.com)](mailto:muhammedshamal0@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-muhammedshamal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mhmd_shamal)](https://twitter.com/mhmd_shamal)
+[![Linkedin Badge](https://img.shields.io/badge/-muhammedsamal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-samal)](https://www.linkedin.com/in/muhammed-samal/)
+[![Gmail Badge](https://img.shields.io/badge/-muhammedsamalt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammedsamalt@gmail.com)](mailto:muhammedsamalt@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-muhammedsamal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/muhammed__samal)](https://twitter.com/muhammed__samal)
 
 ## About me
 
