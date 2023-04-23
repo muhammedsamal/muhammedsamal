@@ -10,9 +10,9 @@
 
 ## About me
 
-- 🔭 I’m currently working on [FromHome](https://github.com/muhammedShamal/fromhome)
+<!-- - 🔭 I’m currently working on [FromHome](https://github.com/muhammedShamal/fromhome) -->
 
-- 🌱 I’m currently learning **React, NodeJS**
+- 🌱 I’m currently learning **NextJs, Tailwindcss**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications**
 
