@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **muhammedsamalt@gmail.com**
 
-- 📄 Know about my experiences [muhammedshamal-resume](https://docs.google.com/document/d/1I0XV8KpKgTQSu_Rojz4wfZLANgVxupdff2mK4u28aKQ/edit?usp=sharing)
+- 📄 Know about my experiences [muhammedsamal-resume](https://github.com/muhammedsamal/muhammedsamal.github.io/blob/main/assets/resume.pdf)
 
 <br>
 
@@ -26,17 +26,21 @@
 
 ### Programming Languages 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-c_programming-black?style=flat-square&logo=C)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 
 ### Database Management 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### Libraries / Frameworks
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next)
+![NodeJs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![ExpressJs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-blue?style=flat-square&logo=tailwindcss)
 
