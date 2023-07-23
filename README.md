@@ -38,9 +38,9 @@
 
 ### Libraries / Frameworks
 ![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next)
+![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
 ![NodeJs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![ExpressJs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
+![ExpressJs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-blue?style=flat-square&logo=tailwindcss)
 
