@@ -45,6 +45,5 @@
 ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-blue?style=flat-square&logo=tailwindcss)
 
 ### Tools
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/-figma-white?style=flat-square&logo=figma)
