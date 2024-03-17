@@ -12,11 +12,15 @@
 
 <!-- - 🔭 I’m currently working on [FromHome](https://github.com/muhammedShamal/fromhome) -->
 
-- 🌱 I’m currently learning **NextJs, Tailwindcss**
+🎓 Presently undertaking MSc in Advanced Computer Science at the University of Leicester, having completed an undergraduate degree in computer science.
 
-- 👯 I’m looking to collaborate on **Full Stack Web Applications**
+📚 My academic focus was primarily on Data Structures, Algorithms, Object Oriented Programming, Database Management System, and Operating Systems, providing me with robust theoretical knowledge and practical skills in computer science.
 
-- 📫 How to reach me **muhammedsamalt@gmail.com**
+🧑‍💻 Possessing a strong education background and substantial experience as a Full Stack Developer and Software Engineer, I continuously refine my technical and analytical skills. Proficient in Agile/Scrum processes and skilled in Python, Java, and JavaScript, I collaborate effectively with dynamic teams to create high-quality software solutions.
+
+🤩 Excited to contribute my knowledge and experience to a group that supports lifelong learning, creativity, and innovation. Ready to make a big impact in the field of computer science, whether it's developing effective apps or applying machine learning methods to solve problems in the real world.
+
+🤝 Let's connect, share ideas, and make tech a better place!
 
 - 📄 Know about my experiences [muhammedsamal-resume](https://github.com/muhammedsamal/muhammedsamal.github.io/blob/main/assets/resume.pdf)
 
