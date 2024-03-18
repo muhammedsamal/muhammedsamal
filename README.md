@@ -28,26 +28,12 @@
 
 ## ⚡ Technologies
 
-### Programming Languages 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/-c_programming-black?style=flat-square&logo=C)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-
-### Database Management 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-### Libraries / Frameworks
-![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
-![NodeJs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![ExpressJs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-tailwindcss-blue?style=flat-square&logo=tailwindcss)
-
-### Tools
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-figma-white?style=flat-square&logo=figma)
+<strong>Languages</strong>: Python, C, Java, JavaScript, TypesScript
+<br>
+<strong>Frontend/Backend</strong>: React.Js, Next.Js, TailwindCSS, HTML, CSS, Django, Node.js, Express.js
+<br>
+<strong>Libraries/Frameworks</strong>: Pandas, Numpy, Matplotlib, Scikit-Learn, Tensorflow, OpenCV
+<br>
+<strong>Databases</strong> & Other: MySQL, PostgreSQL, MongoDB, Redis
+<br>
+<strong>Cloud & Other</strong>: AWS, Docker, Socket.IO, Prisma, Git
