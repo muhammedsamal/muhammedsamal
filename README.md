@@ -36,4 +36,4 @@
 <br>
 <strong>Databases</strong> & Other: MySQL, PostgreSQL, MongoDB, Redis
 <br>
-<strong>Cloud & Other</strong>: AWS, Docker, Socket.IO, Prisma, Git
+<strong>Cloud & Other</strong>: AWS, Google Cloud Platform, Docker, Socket.IO, Prisma, Git
