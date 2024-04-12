@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm <a href="https://muhammedsamal.me">Muhammed Samal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">Software Engineer | Full Stack Developer | AI/ML Engineer</p>
+<p align="center">Software Engineer | Crafting a productivity tool to eliminate the chaos of app switching | ⏳_preneur | 👨‍🎓</p>
 
 ## Connect with me
 
