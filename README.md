@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammedsamal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammed-samal)](https://www.linkedin.com/in/muhammed-samal/)
 [![Gmail Badge](https://img.shields.io/badge/-muhammedsamalt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammedsamalt@gmail.com)](mailto:muhammedsamalt@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-muhammedsamal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/muhammed__samal)](https://twitter.com/muhammed_samalt)
+[![Twitter Badge](https://img.shields.io/badge/-muhammedsamal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/muhammed__samal)](https://twitter.com/muhammedsamalt)
 
 
 ## About me
