@@ -39,5 +39,3 @@
 <br>
 <strong>Cloud & Other</strong>: AWS, Google Cloud Platform, Docker, Socket.IO, Prisma, Git
 
-![image](https://github.com/muhammedsamal/muhammedsamal/assets/75496259/259ae295-c8d5-49b1-922d-810abb49dc30)
-
