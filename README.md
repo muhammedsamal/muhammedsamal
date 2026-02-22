@@ -3,5 +3,5 @@
 what i do instead of ...:
 
 - [ai](https://github.com/muhammedsamal/ai) — Got too many AI api keys, making the most out of them
-- [commit](https://github.com/muhammedsamal/commit) — Don't think just commit.
+- [commit](https://github.com/muhammedsamal/commit) — Don't think just commit
 - [rename](https://github.com/muhammedsamal/rename) — Rename your screenshots from CLI, quickly
