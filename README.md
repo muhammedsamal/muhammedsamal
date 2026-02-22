@@ -2,3 +2,4 @@
 
 - [ai](https://github.com/muhammedsamal/ai) — CLI that queries Groq, Gemini, DeepSeek, OpenAI & more in parallel, copies the fastest answer to clipboard
 - [commit](https://github.com/muhammedsamal/commit) — AI-powered git commit message generator with auto-stage and quick mode
+- [rename](https://github.com/muhammedsamal/rename) — AI-powered image renamer using Gemini with concurrent processing and smart naming conventions
