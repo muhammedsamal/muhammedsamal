@@ -2,6 +2,6 @@
 
 what i do instead of ...:
 
-- [ai](https://github.com/muhammedsamal/ai) — CLI that queries Groq, Gemini, DeepSeek, OpenAI & more in parallel, copies the fastest answer to clipboard
-- [commit](https://github.com/muhammedsamal/commit) — AI-powered git commit message generator with auto-stage and quick mode
-- [rename](https://github.com/muhammedsamal/rename) — AI-powered image renamer using Gemini with concurrent processing and smart naming conventions
+- [ai](https://github.com/muhammedsamal/ai) — Got too many AI api keys, making the most out of them
+- [commit](https://github.com/muhammedsamal/commit) — Don't think just commit.
+- [rename](https://github.com/muhammedsamal/rename) — Rename your screenshots from CLI, quickly
